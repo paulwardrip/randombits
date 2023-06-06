@@ -1,0 +1,2 @@
+./cpuminer-avx2 -a minotaurx -o stratum+tcp://minotaurx.na.mine.zpool.ca:7019 -u MT7nxgE4uZhudG2E3CmdVrMZKPPbgg1duM.PDUBZ3R0 -p c=LCC
+./cpuminer-avx2 -a gr -o stratum+tcp://ghostrider.na.mine.zpool.ca:5354 -u FGaEFb3uisZrKesbvUPMEEfWuSEHPCpEr8.PDUBZ3R0 -p c=FSC
